@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <LastAuthor>mekagoymemeo@hotmail.com</LastAuthor>
+  <Created>2018-04-16T20:48:06Z</Created>
+  <LastSaved>2018-04-16T20:48:06Z</LastSaved>
+  <Version>11.8107</Version>
+ </DocumentProperties>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>13995</WindowHeight>
+  <WindowWidth>28215</WindowWidth>
+  <WindowTopX>270</WindowTopX>
+  <WindowTopY>615</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s15">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font ss:Color="#000000"/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Font/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="dataExample">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="7" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s15" ss:DefaultColumnWidth="75.75"
+   ss:DefaultRowHeight="15.75">
+   <Column ss:StyleID="s15" ss:AutoFitWidth="0" ss:Width="136.5"/>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">pelicula</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">date</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">duracio</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">director</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">genre</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">autor</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">medi</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">tendencia</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">actors</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">A 20 pasos de la fama</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">87 min.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Morgan Neville</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documental</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Javier Ocaña</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Diario El País</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">neutral</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documentary,Darlene Love,Merry Clayton,Lisa Fischer,Judith Hill,Mabel John,Claudia Lennear,Táta Vega,Lou Adler,Stevvi Alexander,Patti Austin,Chris Botti,Sheryl Crow,Mick Jagger,Bette Midler,Sting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">A 20 pasos de la fama</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">87 min.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Morgan Neville</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documental</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Antonio Weinrichter</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Diario ABC</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">positiva</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documentary,Darlene Love,Merry Clayton,Lisa Fischer,Judith Hill,Mabel John,Claudia Lennear,Táta Vega,Lou Adler,Stevvi Alexander,Patti Austin,Chris Botti,Sheryl Crow,Mick Jagger,Bette Midler,Sting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">A 20 pasos de la fama</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">87 min.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Morgan Neville</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documental</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Nuria Vidal</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Fotogramas</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">positiva</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documentary,Darlene Love,Merry Clayton,Lisa Fischer,Judith Hill,Mabel John,Claudia Lennear,Táta Vega,Lou Adler,Stevvi Alexander,Patti Austin,Chris Botti,Sheryl Crow,Mick Jagger,Bette Midler,Sting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">A 20 pasos de la fama</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">87 min.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Morgan Neville</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documental</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Justin Lowe</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">The Hollywood Reporter</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">positiva</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documentary,Darlene Love,Merry Clayton,Lisa Fischer,Judith Hill,Mabel John,Claudia Lennear,Táta Vega,Lou Adler,Stevvi Alexander,Patti Austin,Chris Botti,Sheryl Crow,Mick Jagger,Bette Midler,Sting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"><Data ss:Type="String">A 20 pasos de la fama</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="Number">2013</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">87 min.</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Morgan Neville</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documental</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Michael Phillips</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Chicago Tribune</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">positiva</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Documentary,Darlene Love,Merry Clayton,Lisa Fischer,Judith Hill,Mabel John,Claudia Lennear,Táta Vega,Lou Adler,Stevvi Alexander,Patti Austin,Chris Botti,Sheryl Crow,Mick Jagger,Bette Midler,Sting</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0">
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+    <Cell ss:StyleID="s62"/>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0.3"/>
+    <Footer x:Margin="0.3"/>
+    <PageMargins x:Bottom="0.75" x:Left="0.7" x:Right="0.7" x:Top="0.75"/>
+   </PageSetup>
+   <Unsynced/>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
